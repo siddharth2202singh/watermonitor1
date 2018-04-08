@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "53605088982",
+    "firebase_url": "https://androideatit-bc3e8.firebaseio.com",
+    "project_id": "androideatit-bc3e8",
+    "storage_bucket": "androideatit-bc3e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53605088982:android:57e7eef5847978a0",
+        "android_client_info": {
+          "package_name": "com.example.durand.androideatlt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53605088982-bt809g395jk4m8ksvlpeposp3itcspau.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.durand.androideatlt",
+            "certificate_hash": "142b78fb559d210b6cac85d88186e50ebe5e2ddf"
+          }
+        },
+        {
+          "client_id": "53605088982-gm90eoo66pjn5frgapo01n300h964vor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ8bkl-QToYnpqDnhHLe3rzOd_dHpJcpk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53605088982-gm90eoo66pjn5frgapo01n300h964vor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53605088982:android:cf78e74fc2d8b567",
+        "android_client_info": {
+          "package_name": "com.example.durand.watermonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53605088982-7t6fh002m7bjpqe77alrvlr5c94n8c1q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.durand.watermonitor",
+            "certificate_hash": "142b78fb559d210b6cac85d88186e50ebe5e2ddf"
+          }
+        },
+        {
+          "client_id": "53605088982-gm90eoo66pjn5frgapo01n300h964vor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ8bkl-QToYnpqDnhHLe3rzOd_dHpJcpk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53605088982-gm90eoo66pjn5frgapo01n300h964vor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
